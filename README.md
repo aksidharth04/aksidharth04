@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Sidharth! 👋
 
-<!--
-**aksidharth04/aksidharth04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year Student at MIT Manipal**  
+🔬 **Passionate about using technology to make a real-world impact**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a final year student at MIT Manipal, specializing in **Python**, **Natural Language Processing (NLP)**, and **C**. I have a deep passion for building solutions that uplift and empower the underprivileged. My journey in tech is driven by a desire to solve meaningful problems and make a positive difference.
+
+🏸 **Fun Fact:**  
+I am also a national-level badminton player!
+
+---
+
+## 🛠️ Skills
+
+- Python
+- Natural Language Processing (NLP)
+- C Programming
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced NLP techniques
+- Real-world applications of AI for social good
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/feed/)
+
+---
+
+
+Thanks for stopping by! Feel free to connect or reach out for collaboration opportunities.
